@@ -7,7 +7,7 @@ export const store = configureStore({
   },
 })
 
-///steps:
+///steps:  
 //1. create stroe 
 //2. wrap app comopnent under Provider
 //3. create Slice
